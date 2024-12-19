@@ -4,19 +4,19 @@
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/common-guides/main/getting-started-azure.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/OCI-Inject-default-value/refs/heads/main/01.md",
         "Order": 1
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/wiz-tech-foundations/main/module-3/Azure/connect-wiz-to-azure.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/OCI-Inject-default-value/refs/heads/main/02.md",
         "Order": 2
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/wiz-tech-foundations/main/module-4/az-verify-and-analyze-cloud-environment.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/OCI-Inject-default-value/refs/heads/main/03.md",
         "Order": 3
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/common-guides/main/endlab.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/OCI-Inject-default-value/refs/heads/main/04.md",
         "Order": 4
       }
     ]
