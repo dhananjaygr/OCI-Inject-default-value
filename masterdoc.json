@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Wiz Tech Foundations",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/common-guides/main/getting-started-azure.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/wiz-tech-foundations/main/module-3/Azure/connect-wiz-to-azure.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/wiz-tech-foundations/main/module-4/az-verify-and-analyze-cloud-environment.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/wiz-training/common-guides/main/endlab.md",
+        "Order": 4
+      }
+    ]
+  }
+]
